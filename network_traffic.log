@@ -1,0 +1,176 @@
+2024-07-27 14:45:20,628 - Ether / IP / TCP 192.168.1.6:58421 > 34.170.65.59:https A / Raw
+2024-07-27 14:45:20,628 - Source IP: 192.168.1.6, Destination IP: 34.170.65.59, Protocol: 6
+2024-07-27 14:45:20,628 - Source Port: 58421, Destination Port: 443
+2024-07-27 14:45:20,939 - Ether / IP / TCP 192.168.1.6:58421 > 34.170.65.59:https A / Raw
+2024-07-27 14:45:20,939 - Source IP: 192.168.1.6, Destination IP: 34.170.65.59, Protocol: 6
+2024-07-27 14:45:20,939 - Source Port: 58421, Destination Port: 443
+2024-07-27 14:45:20,939 - Ether / IP / TCP 192.168.1.6:58421 > 34.170.65.59:https PA / Raw
+2024-07-27 14:45:20,939 - Source IP: 192.168.1.6, Destination IP: 34.170.65.59, Protocol: 6
+2024-07-27 14:45:20,939 - Source Port: 58421, Destination Port: 443
+2024-07-27 14:45:20,939 - Ether / IP / TCP 34.170.65.59:https > 192.168.1.6:58421 A
+2024-07-27 14:45:20,939 - Source IP: 34.170.65.59, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 14:45:20,939 - Source Port: 443, Destination Port: 58421
+2024-07-27 14:45:20,974 - Ether / IP / TCP 34.170.65.59:https > 192.168.1.6:58421 PA / Raw
+2024-07-27 14:45:20,974 - Source IP: 34.170.65.59, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 14:45:20,974 - Source Port: 443, Destination Port: 58421
+2024-07-27 14:45:20,974 - Ether / IP / TCP 192.168.1.6:58421 > 34.170.65.59:https A / Raw
+2024-07-27 14:45:20,974 - Source IP: 192.168.1.6, Destination IP: 34.170.65.59, Protocol: 6
+2024-07-27 14:45:20,974 - Source Port: 58421, Destination Port: 443
+2024-07-27 14:45:21,217 - Ether / IP / TCP 192.168.1.6:58421 > 34.170.65.59:https A / Raw
+2024-07-27 14:45:21,217 - Source IP: 192.168.1.6, Destination IP: 34.170.65.59, Protocol: 6
+2024-07-27 14:45:21,217 - Source Port: 58421, Destination Port: 443
+2024-07-27 14:45:21,217 - Ether / IP / TCP 192.168.1.6:58421 > 34.170.65.59:https PA / Raw
+2024-07-27 14:45:21,217 - Source IP: 192.168.1.6, Destination IP: 34.170.65.59, Protocol: 6
+2024-07-27 14:45:21,223 - Source Port: 58421, Destination Port: 443
+2024-07-27 14:45:21,226 - Ether / IPv6 / UDP / DNS Qry "b'ctldl.windowsupdate.com.'" 
+2024-07-27 14:45:21,226 - Source Port: 58913, Destination Port: 53
+2024-07-27 14:45:21,228 - Ether / IPv6 / UDP / DNS Ans "b'ctldl.windowsupdate.com.delivery.microsoft.com.'" 
+2024-07-27 14:45:21,228 - Source Port: 53, Destination Port: 58913
+2024-07-27 14:45:21,231 - Ether / IP / TCP 34.170.65.59:https > 192.168.1.6:58421 A
+2024-07-27 14:45:21,231 - Source IP: 34.170.65.59, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 14:45:21,231 - Source Port: 443, Destination Port: 58421
+2024-07-27 14:45:21,231 - Ether / IP / TCP 192.168.1.6:61136 > 151.101.38.172:http S
+2024-07-27 14:45:21,231 - Source IP: 192.168.1.6, Destination IP: 151.101.38.172, Protocol: 6
+2024-07-27 14:45:21,231 - Source Port: 61136, Destination Port: 80
+2024-07-27 14:45:21,238 - Ether / IP / TCP 34.170.65.59:https > 192.168.1.6:58421 PA / Raw
+2024-07-27 14:45:21,238 - Source IP: 34.170.65.59, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 14:45:21,238 - Source Port: 443, Destination Port: 58421
+2024-07-27 14:45:21,288 - Ether / IP / TCP 192.168.1.6:58421 > 34.170.65.59:https A
+2024-07-27 14:45:21,288 - Source IP: 192.168.1.6, Destination IP: 34.170.65.59, Protocol: 6
+2024-07-27 14:45:21,288 - Source Port: 58421, Destination Port: 443
+2024-07-27 14:45:21,381 - Ether / IP / TCP 151.101.38.172:http > 192.168.1.6:61136 SA
+2024-07-27 14:45:21,381 - Source IP: 151.101.38.172, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 14:45:21,381 - Source Port: 80, Destination Port: 61136
+2024-07-27 14:45:21,381 - Ether / IP / TCP 192.168.1.6:61136 > 151.101.38.172:http A
+2024-07-27 14:45:21,381 - Source IP: 192.168.1.6, Destination IP: 151.101.38.172, Protocol: 6
+2024-07-27 14:45:21,381 - Source Port: 61136, Destination Port: 80
+2024-07-27 14:45:21,381 - Ether / IP / TCP 192.168.1.6:61136 > 151.101.38.172:http PA / Raw
+2024-07-27 14:45:21,381 - Source IP: 192.168.1.6, Destination IP: 151.101.38.172, Protocol: 6
+2024-07-27 14:45:21,381 - Source Port: 61136, Destination Port: 80
+2024-07-27 14:45:21,391 - Ether / IP / TCP 151.101.38.172:http > 192.168.1.6:61136 A
+2024-07-27 14:45:21,391 - Source IP: 151.101.38.172, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 14:45:21,391 - Source Port: 80, Destination Port: 61136
+2024-07-27 14:45:21,515 - Ether / IPv6 / UDP / DNS Qry "b'mobile.events.data.microsoft.com.'" 
+2024-07-27 14:45:21,516 - Source Port: 58913, Destination Port: 53
+2024-07-27 14:45:21,519 - Ether / IPv6 / UDP / DNS Ans "b'mobile.events.data.trafficmanager.net.'" 
+2024-07-27 14:45:21,519 - Source Port: 53, Destination Port: 58913
+2024-07-27 18:00:20,023 - Ether / IP / TCP 192.168.1.6:52820 > 34.170.65.59:https A / Raw
+2024-07-27 18:00:20,023 - Source IP: 192.168.1.6, Destination IP: 34.170.65.59, Protocol: 6
+2024-07-27 18:00:20,023 - Source Port: 52820, Destination Port: 443
+2024-07-27 18:00:20,114 - Ether / IP / TCP 192.168.1.6:52820 > 34.170.65.59:https A / Raw
+2024-07-27 18:00:20,114 - Source IP: 192.168.1.6, Destination IP: 34.170.65.59, Protocol: 6
+2024-07-27 18:00:20,114 - Source Port: 52820, Destination Port: 443
+2024-07-27 18:00:20,115 - Ether / IP / TCP 192.168.1.6:52820 > 34.170.65.59:https PA / Raw
+2024-07-27 18:00:20,115 - Source IP: 192.168.1.6, Destination IP: 34.170.65.59, Protocol: 6
+2024-07-27 18:00:20,115 - Source Port: 52820, Destination Port: 443
+2024-07-27 18:00:20,115 - Ether / IP / TCP 104.208.16.90:https > 192.168.1.6:52998 A
+2024-07-27 18:00:20,115 - Source IP: 104.208.16.90, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 18:00:20,115 - Source Port: 443, Destination Port: 52998
+2024-07-27 18:00:20,115 - Ether / IP / TCP 104.208.16.90:https > 192.168.1.6:52998 A
+2024-07-27 18:00:20,115 - Source IP: 104.208.16.90, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 18:00:20,115 - Source Port: 443, Destination Port: 52998
+2024-07-27 18:00:20,115 - Ether / IP / TCP 192.168.1.6:52998 > 104.208.16.90:https A / Raw
+2024-07-27 18:00:20,115 - Source IP: 192.168.1.6, Destination IP: 104.208.16.90, Protocol: 6
+2024-07-27 18:00:20,115 - Source Port: 52998, Destination Port: 443
+2024-07-27 18:00:20,115 - Ether / IP / TCP 192.168.1.6:52998 > 104.208.16.90:https A / Raw
+2024-07-27 18:00:20,115 - Source IP: 192.168.1.6, Destination IP: 104.208.16.90, Protocol: 6
+2024-07-27 18:00:20,115 - Source Port: 52998, Destination Port: 443
+2024-07-27 18:00:20,115 - Ether / IP / TCP 192.168.1.6:52998 > 104.208.16.90:https A / Raw
+2024-07-27 18:00:20,115 - Source IP: 192.168.1.6, Destination IP: 104.208.16.90, Protocol: 6
+2024-07-27 18:00:20,115 - Source Port: 52998, Destination Port: 443
+2024-07-27 18:00:20,115 - Ether / IP / TCP 192.168.1.6:52998 > 104.208.16.90:https A / Raw
+2024-07-27 18:00:20,115 - Source IP: 192.168.1.6, Destination IP: 104.208.16.90, Protocol: 6
+2024-07-27 18:00:20,115 - Source Port: 52998, Destination Port: 443
+2024-07-27 18:00:20,120 - Ether / IP / TCP 192.168.1.6:52998 > 104.208.16.90:https A / Raw
+2024-07-27 18:00:20,120 - Source IP: 192.168.1.6, Destination IP: 104.208.16.90, Protocol: 6
+2024-07-27 18:00:20,120 - Source Port: 52998, Destination Port: 443
+2024-07-27 18:00:20,121 - Ether / IP / TCP 192.168.1.6:52998 > 104.208.16.90:https A / Raw
+2024-07-27 18:00:20,121 - Source IP: 192.168.1.6, Destination IP: 104.208.16.90, Protocol: 6
+2024-07-27 18:00:20,121 - Source Port: 52998, Destination Port: 443
+2024-07-27 18:00:20,121 - Ether / IP / TCP 192.168.1.6:52998 > 104.208.16.90:https A / Raw
+2024-07-27 18:00:20,121 - Source IP: 192.168.1.6, Destination IP: 104.208.16.90, Protocol: 6
+2024-07-27 18:00:20,121 - Source Port: 52998, Destination Port: 443
+2024-07-27 18:00:20,121 - Ether / IP / TCP 192.168.1.6:52998 > 104.208.16.90:https A / Raw
+2024-07-27 18:00:20,121 - Source IP: 192.168.1.6, Destination IP: 104.208.16.90, Protocol: 6
+2024-07-27 18:00:20,121 - Source Port: 52998, Destination Port: 443
+2024-07-27 18:00:20,121 - Ether / IP / TCP 104.208.16.90:https > 192.168.1.6:52998 A
+2024-07-27 18:00:20,121 - Source IP: 104.208.16.90, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 18:00:20,121 - Source Port: 443, Destination Port: 52998
+2024-07-27 18:00:20,121 - Ether / IP / TCP 192.168.1.6:52998 > 104.208.16.90:https A / Raw
+2024-07-27 18:00:20,121 - Source IP: 192.168.1.6, Destination IP: 104.208.16.90, Protocol: 6
+2024-07-27 18:00:20,121 - Source Port: 52998, Destination Port: 443
+2024-07-27 18:00:20,121 - Ether / IP / TCP 192.168.1.6:52998 > 104.208.16.90:https A / Raw
+2024-07-27 18:00:20,121 - Source IP: 192.168.1.6, Destination IP: 104.208.16.90, Protocol: 6
+2024-07-27 18:00:20,121 - Source Port: 52998, Destination Port: 443
+2024-07-27 18:00:20,121 - Ether / IP / TCP 192.168.1.6:52998 > 104.208.16.90:https A / Raw
+2024-07-27 18:00:20,121 - Source IP: 192.168.1.6, Destination IP: 104.208.16.90, Protocol: 6
+2024-07-27 18:00:20,121 - Source Port: 52998, Destination Port: 443
+2024-07-27 18:00:20,121 - Ether / IP / TCP 192.168.1.6:52998 > 104.208.16.90:https A / Raw
+2024-07-27 18:00:20,121 - Source IP: 192.168.1.6, Destination IP: 104.208.16.90, Protocol: 6
+2024-07-27 18:00:20,121 - Source Port: 52998, Destination Port: 443
+2024-07-27 18:00:20,121 - Ether / IP / TCP 192.168.1.6:52998 > 104.208.16.90:https PA / Raw
+2024-07-27 18:00:20,121 - Source IP: 192.168.1.6, Destination IP: 104.208.16.90, Protocol: 6
+2024-07-27 18:00:20,121 - Source Port: 52998, Destination Port: 443
+2024-07-27 18:00:20,121 - Ether / IP / TCP 104.208.16.90:https > 192.168.1.6:52998 A
+2024-07-27 18:00:20,121 - Source IP: 104.208.16.90, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 18:00:20,121 - Source Port: 443, Destination Port: 52998
+2024-07-27 18:01:36,324 - Ether / IP / TCP 192.168.1.6:52723 > 44.207.103.246:https A / Raw
+2024-07-27 18:01:36,324 - Source IP: 192.168.1.6, Destination IP: 44.207.103.246, Protocol: 6
+2024-07-27 18:01:36,324 - Source Port: 52723, Destination Port: 443
+2024-07-27 18:01:36,452 - Ether / IP / TCP 192.168.1.6:53621 > 35.223.238.178:https A / Raw
+2024-07-27 18:01:36,452 - Source IP: 192.168.1.6, Destination IP: 35.223.238.178, Protocol: 6
+2024-07-27 18:01:36,452 - Source Port: 53621, Destination Port: 443
+2024-07-27 18:01:36,567 - Ether / IP / TCP 44.207.103.246:https > 192.168.1.6:52723 A
+2024-07-27 18:01:36,567 - Source IP: 44.207.103.246, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 18:01:36,567 - Source Port: 443, Destination Port: 52723
+2024-07-27 18:01:36,676 - Ether / IP / TCP 20.212.88.117:https > 192.168.1.6:52540 PA / Raw
+2024-07-27 18:01:36,676 - Source IP: 20.212.88.117, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 18:01:36,676 - Source Port: 443, Destination Port: 52540
+2024-07-27 18:01:36,676 - Ether / IP / TCP 192.168.1.6:52540 > 20.212.88.117:https PA / Raw
+2024-07-27 18:01:36,676 - Source IP: 192.168.1.6, Destination IP: 20.212.88.117, Protocol: 6
+2024-07-27 18:01:36,676 - Source Port: 52540, Destination Port: 443
+2024-07-27 18:01:36,691 - Ether / IP / TCP 35.223.238.178:https > 192.168.1.6:53621 A
+2024-07-27 18:01:36,691 - Source IP: 35.223.238.178, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 18:01:36,691 - Source Port: 443, Destination Port: 53621
+2024-07-27 18:01:36,738 - Ether / IP / TCP 20.212.88.117:https > 192.168.1.6:52540 A
+2024-07-27 18:01:36,738 - Source IP: 20.212.88.117, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 18:01:36,738 - Source Port: 443, Destination Port: 52540
+2024-07-27 18:01:36,958 - Ether / IP / TCP 192.168.1.6:52777 > 117.18.232.200:https A / Raw
+2024-07-27 18:01:36,959 - Source IP: 192.168.1.6, Destination IP: 117.18.232.200, Protocol: 6
+2024-07-27 18:01:36,959 - Source Port: 52777, Destination Port: 443
+2024-07-27 18:01:36,965 - Ether / IP / TCP 117.18.232.200:https > 192.168.1.6:52777 A
+2024-07-27 18:01:36,965 - Source IP: 117.18.232.200, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 18:01:36,965 - Source Port: 443, Destination Port: 52777
+2024-07-27 18:01:37,064 - Ether / IP / UDP 192.168.1.6:59356 > 239.255.255.250:ssdp / Raw
+2024-07-27 18:01:37,065 - Source IP: 192.168.1.6, Destination IP: 239.255.255.250, Protocol: 17
+2024-07-27 18:01:37,065 - Source Port: 59356, Destination Port: 1900
+2024-07-27 18:01:37,066 - Ether / IP / UDP 192.168.1.6:59355 > 239.255.255.250:ssdp / Raw
+2024-07-27 18:01:37,066 - Source IP: 192.168.1.6, Destination IP: 239.255.255.250, Protocol: 17
+2024-07-27 18:01:37,066 - Source Port: 59355, Destination Port: 1900
+2024-07-27 18:01:37,092 - Ether / IP / UDP 192.168.1.5:ssdp > 192.168.1.6:59356 / Raw
+2024-07-27 18:01:37,092 - Source IP: 192.168.1.5, Destination IP: 192.168.1.6, Protocol: 17
+2024-07-27 18:01:37,092 - Source Port: 1900, Destination Port: 59356
+2024-07-27 18:01:37,192 - Ether / IP / UDP 192.168.1.5:ssdp > 192.168.1.6:59355 / Raw
+2024-07-27 18:01:37,192 - Source IP: 192.168.1.5, Destination IP: 192.168.1.6, Protocol: 17
+2024-07-27 18:01:37,192 - Source Port: 1900, Destination Port: 59355
+2024-07-27 18:01:37,192 - Ether / IP / TCP 35.223.238.178:https > 192.168.1.6:53006 PA / Raw
+2024-07-27 18:01:37,192 - Source IP: 35.223.238.178, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 18:01:37,192 - Source Port: 443, Destination Port: 53006
+2024-07-27 18:01:37,432 - Ether / IP / TCP 35.223.238.178:https > 192.168.1.6:53006 FA
+2024-07-27 18:01:37,432 - Source IP: 35.223.238.178, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 18:01:37,432 - Source Port: 443, Destination Port: 53006
+2024-07-27 18:01:37,432 - Ether / IP / TCP 192.168.1.6:53006 > 35.223.238.178:https A
+2024-07-27 18:01:37,432 - Source IP: 192.168.1.6, Destination IP: 35.223.238.178, Protocol: 6
+2024-07-27 18:01:37,432 - Source Port: 53006, Destination Port: 443
+2024-07-27 18:01:37,432 - Ether / IP / TCP 192.168.1.6:53006 > 35.223.238.178:https PA / Raw
+2024-07-27 18:01:37,432 - Source IP: 192.168.1.6, Destination IP: 35.223.238.178, Protocol: 6
+2024-07-27 18:01:37,432 - Source Port: 53006, Destination Port: 443
+2024-07-27 18:01:37,432 - Ether / IP / TCP 192.168.1.6:53006 > 35.223.238.178:https FA
+2024-07-27 18:01:37,432 - Source IP: 192.168.1.6, Destination IP: 35.223.238.178, Protocol: 6
+2024-07-27 18:01:37,432 - Source Port: 53006, Destination Port: 443
+2024-07-27 18:01:37,432 - Ether / IP / TCP 35.223.238.178:https > 192.168.1.6:53006 R
+2024-07-27 18:01:37,432 - Source IP: 35.223.238.178, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 18:01:37,432 - Source Port: 443, Destination Port: 53006
+2024-07-27 18:01:37,603 - Ether / IP / TCP 35.223.238.178:https > 192.168.1.6:53006 R
+2024-07-27 18:01:37,604 - Source IP: 35.223.238.178, Destination IP: 192.168.1.6, Protocol: 6
+2024-07-27 18:01:37,604 - Source Port: 443, Destination Port: 53006
